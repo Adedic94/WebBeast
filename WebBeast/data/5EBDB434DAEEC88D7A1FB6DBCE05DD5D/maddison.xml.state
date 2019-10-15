@@ -1,0 +1,16 @@
+<itsabeastystatewerein version='2.0' sample='10000000'>
+<statenode id='Tree.t:maddison'>(((0:0.02288171539257729,1:0.02288171539257729)4:0.0869018013181933,2:0.10978351671077059)5:0.010985901873974288,3:0.12076941858474488)6:0.0</statenode>
+<statenode id='birthRate.t:maddison'>birthRate.t:maddison[1 1] (-Infinity,Infinity): 9.360749092796157 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"YuleBirthRateScaler.t:maddison","p":0.17706298363003725,"accept":112860,"reject":286486,"acceptFC":111829,"rejectFC":286289,"rejectIv":0,"rejectOp":0},
+{"id":"YuleModelTreeScaler.t:maddison","p":0.2553413381076918,"accept":104807,"reject":294654,"acceptFC":104153,"rejectFC":294054,"rejectIv":0,"rejectOp":0},
+{"id":"YuleModelTreeRootScaler.t:maddison","p":0.27235517198983794,"accept":75275,"reject":324729,"acceptFC":74759,"rejectFC":323960,"rejectIv":44530,"rejectOp":44530},
+{"id":"YuleModelUniformOperator.t:maddison","p":"NaN","accept":2501675,"reject":1496543,"acceptFC":2493845,"rejectFC":1491905,"rejectIv":0,"rejectOp":0},
+{"id":"YuleModelSubtreeSlide.t:maddison","p":1.1690303036475356,"accept":70929,"reject":1929022,"acceptFC":70663,"rejectFC":1923054,"rejectIv":947997,"rejectOp":947997},
+{"id":"YuleModelNarrow.t:maddison","p":"NaN","accept":312904,"reject":1688075,"acceptFC":311828,"rejectFC":1682784,"rejectIv":0,"rejectOp":0},
+{"id":"YuleModelWide.t:maddison","p":"NaN","accept":16728,"reject":384712,"acceptFC":16674,"rejectFC":383507,"rejectIv":241439,"rejectOp":241439},
+{"id":"YuleModelWilsonBalding.t:maddison","p":"NaN","accept":6826,"reject":393776,"acceptFC":6806,"rejectFC":392613,"rejectIv":270489,"rejectOp":270489}
+]}
+-->

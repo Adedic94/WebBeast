@@ -1,0 +1,20 @@
+<itsabeastystatewerein version='2.0' sample='10000000'>
+<statenode id='hky.kappa'>hky.kappa[1 1] (0.0,Infinity): 29.75815695019223 </statenode>
+<statenode id='hky.frequencies'>hky.frequencies[4 1] (0.0,Infinity): 0.35618907501182845 0.24025235013951252 0.15691551446127086 0.24664306038738895 </statenode>
+<statenode id='popSize'>popSize[1 1] (0.0,Infinity): 0.054523127965322375 </statenode>
+<statenode id='tree'>((((2:0.01829801303243413,(1:0.01661414628304634,0:0.01661414628304634)6:0.0016838667493877905)7:0.010640099034155782,3:0.028938112066589913)8:0.017765256881396106,4:0.04670336894798602)9:0.01449795012404767,5:0.06120131907203369)10:0.0</statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"kappaScaler","p":0.31776721471768116,"accept":3877,"reject":9701,"acceptFC":3853,"rejectFC":9683,"rejectIv":0,"rejectOp":0},
+{"id":"frequenciesDelta","p":0.0667852116568729,"accept":3945,"reject":9839,"acceptFC":3913,"rejectFC":9825,"rejectIv":0,"rejectOp":0},
+{"id":"popSizeScaler","p":0.2163374981533146,"accept":109759,"reject":299978,"acceptFC":108691,"rejectFC":299745,"rejectIv":0,"rejectOp":0},
+{"id":"treeScaler","p":0.6213201314630945,"accept":103210,"reject":306695,"acceptFC":102696,"rejectFC":305998,"rejectIv":0,"rejectOp":0},
+{"id":"unknown","p":"NaN","accept":1057385,"reject":3043558,"acceptFC":1054406,"rejectFC":3034390,"rejectIv":0,"rejectOp":0},
+{"id":"unknown","p":0.23236101741658025,"accept":28378,"reject":2021884,"acceptFC":28348,"rejectFC":2015729,"rejectIv":1741566,"rejectOp":950595},
+{"id":"narrow","p":"NaN","accept":17,"reject":2046767,"acceptFC":9,"rejectFC":2040421,"rejectIv":1023199,"rejectOp":0},
+{"id":"wide","p":"NaN","accept":1,"reject":409131,"acceptFC":1,"rejectFC":407879,"rejectIv":354532,"rejectOp":227235},
+{"id":"unknown","p":"NaN","accept":0,"reject":136987,"acceptFC":0,"rejectFC":136591,"rejectIv":108858,"rejectOp":70084},
+{"id":"unknown","p":0.6087598872388682,"accept":95835,"reject":313054,"acceptFC":95359,"rejectFC":312314,"rejectIv":0,"rejectOp":0}
+]}
+-->

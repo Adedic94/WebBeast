@@ -1,0 +1,8 @@
+<itsabeastystatewerein version='2.0' sample='100000'>
+<statenode id='indicators'>indicators[5 1] (null,true): true false false false false </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"bitflip","p":"NaN","accept":59023,"reject":40978,"acceptFC":0,"rejectFC":0,"rejectIv":0,"rejectOp":0}
+]}
+-->
